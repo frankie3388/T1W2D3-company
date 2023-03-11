@@ -48,3 +48,24 @@ Footer has social media links, contact number and address. Here is the code that
     </div>
 </footer>
 ```
+
+## Pages
+
+### Home
+Home page, for now, just displays some lorem ipsum text. Here is the code that we have used:
+```html
+<main>
+    <section>
+        <div class="jumbotron">
+            <img src="./images/jumbotron.jpg" alt="picture of network" />
+        </div>
+        <div class="details">
+            <p>
+                Coder Academy is Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas exercitationem
+                quibusdam quod iusto aut omnis odit enim possimus sed illo? Sed iusto quas repellendus, doloremque
+                totam ipsam modi non alias!
+            </p>
+        </div>
+    </section>
+</main>
+```
