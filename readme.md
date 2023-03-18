@@ -85,3 +85,6 @@ This will contain the styling of each individual HTML pages.
 
 ### Services
 Servies page displays the list of services that we provide.
+
+### Contact
+Contact page can be used to contact the company.
